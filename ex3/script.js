@@ -53,10 +53,4 @@ function verificarIdades(nascimentos) {
     return avIdades;
 }
 
-verificarIdades([1968, 1989, 1999, 2001, 2003, 2002, 2000, 2006, 2010]);
-
-
-
-
-
-
+//verificarIdades([1968, 1989, 1999, 2001, 2003, 2002, 2000, 2006, 2010]);
